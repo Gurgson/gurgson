@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there,</h1>
+<h3 align="center">I am a javascript developer</h3>
 
-<!--
-**Gurgson/gurgson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Who am I?</h2>
+<p>
+I am a part-time third-grade student at the College Of Economics And Computer Science in Cracow in the field of Applied Computer Science (engineering degree). My current goal is to finish my degree and start my carrer in IT world.
+</p>
 
-Here are some ideas to get you started:
+<h2>What I&apos;m using?</h2>
+<h4  align="left">Front-end:</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4  align="left">Back-end:</h4>
+
+<h4  align="left">Tools</h4>
