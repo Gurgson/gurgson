@@ -8,7 +8,7 @@ I am a part-time third-grade student at the College Of Economics And Computer Sc
 
 <h2>What I&apos;m using?</h2>
 <h4  align="left">Front-end:</h4>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+<img indent="5" src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=3"/>
 <h4  align="left">Back-end:</h4>
 
 <h4  align="left">Tools</h4>
