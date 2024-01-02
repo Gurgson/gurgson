@@ -15,5 +15,6 @@ I am a part-time third-grade student at the College Of Economics And Computer Sc
 <img indent="5" src="https://skillicons.dev/icons?i=git,github,vscode,figma,webpack,vite"/>
 
 ## What am i working on currently? 🔨
-- GeoPuzzle (backend) - That's my engineering degree project which i'm doing with my friend. It's simple app where users have series of riddles and can anwear with a point on map. I'm on back-end sides and there is a lot of new challanges for me waiting.
-- Smaller projects - They allow me to learn and implement new solutions and technlogies in my future projects
+- GeoPuzzle (backend) - My engineering degree project which I am working on with a collegue. It is a simple app where users receive a series of riddles and can answear with a point on map. I am on back-end sides and there is a lot of new challanges for me to face. 
+
+- Smaller projects - They allow me to learn and implement new solutions and technologies in my future projects.
